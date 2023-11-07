@@ -2407,7 +2407,7 @@ sources:
     files:
       readme.md:
         index: true
-  filipecalegario/awesome-generative-deep-art:
+  filipecalegario/awesome-generative-ai:
     category: Miscellaneous
     default_branch: main
     files:
